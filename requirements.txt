@@ -1,6 +1,5 @@
 streamlit
 pdfplumber
-spacy
+spacy==3.7.2
 nltk
 pandas
-
